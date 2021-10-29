@@ -37,4 +37,5 @@ Though the average fare per ride and per driver were higher for the rural cities
 - This would indicate that there is more money to be made by focusing business on the urban cities. 
 - One piece of data not considered in this analysis is the length of time each ride took. A per-minute evaluation of fares would be beneficial to understanding best how to allocate drivers (either through financial motivation or re-jiggering the algorithms matching drivers to riders) to maximize the time-based profit. 
 - Cost controls may also be necessary in urban centers to ensure that rides don't become so expensive as to scare away potential new customers, or to drive them to use rival company Pyft instead. 
+
 In conclusion, the use patterns and average fares differ between the three city types. This indicates that no one strategy will be effective in promoting growth in all three city types. Future consideration should be provided to understand the needs of clients in each different city type, and to provide enticements for both drivers and riders that will increase the use across each different city type.
